@@ -20,8 +20,13 @@
             "url": "screen.png"
         },
         {
-            "url": "https://github.com/Happynico7504/spotify-wiiu/releases/download/v1.4.2/spotify-wiiu.wuhb",
-            "dest": "/wiiu/apps/SpotifyWiiU/spotify-wiiu.wuhb",
+            "url": "https://github.com/Happynico7504/spotify-wiiu/releases/download/wiiu-latest/spotify-wiiu.wuhb",
+            "dest": "/wiiu/apps/spotify-wiiu/spotify-wiiu.wuhb",
+            "type": "update"
+        },
+        {
+            "url": "https://github.com/Happynico7504/spotify-wiiu/releases/download/wiiu-latest/spotify-cache-sweep.wps",
+            "dest": "/wiiu/environments/aroma/plugins/spotify-cache-sweep.wps",
             "type": "update"
         }
     ],
