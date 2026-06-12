@@ -4,7 +4,7 @@
         "title": "Spotify for Wii U",
         "author": "Nico Christmann",
         "category": "aroma",
-        "version": "1.4.2",
+        "version": "wiiu-latest",
         "url": "https://github.com/Happynico7504/spotify-wiiu",
         "license": "MIT",
         "description": "Unofficial Spotify Connect for Wii U",
