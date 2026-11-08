@@ -1,0 +1,29 @@
+{
+    "package": "AnEgG",
+    "info": {
+        "title": "An EgG",
+        "author": "daniel barros (LF)",
+        "category": "game",
+        "version": "0.1.0",
+        "url": "https://github.com/Danielreallydoesexist/An-EgG/",
+        "license": "MIT",
+        "description": "a stupid game about stupid eggs",
+        "details": "An EgG is a Wii U game about doing stupid things with eggs on an infinite desk. Throw them, fry them, scare them, feed them to a giraffe, and complete quests that get increasingly ridiculous. Get lost in caves, bounce through pinball land, buy questionable stuff, and definitely don\u2019t press the button that summons UNDEF. ...You\u2019re going to press it, aren\u2019t you?\\n\\nSuggested age: 13+ \u2014 includes giraffe butchering and meat imagery.\\n\\nAI use: AI-generated, not reviewed line by line. AI also used for: icon/banner art, description text."
+    },
+    "assets": [
+        {
+            "type": "icon",
+            "url": "icon.png"
+        },
+        {
+            "type": "banner",
+            "url": "screen.png"
+        },
+        {
+            "url": "https://github.com/Danielreallydoesexist/An-EgG/releases/download/v0.1.0/An-EgG-Cafe-Engine.wuhb",
+            "type": "update",
+            "dest": "/wiiu/apps/AnEgG/An-EgG-Cafe-Engine.wuhb"
+        }
+    ],
+    "changelog": "0.1.0: first public release. not that many bosses right now so i won't count it as 1.0."
+}
